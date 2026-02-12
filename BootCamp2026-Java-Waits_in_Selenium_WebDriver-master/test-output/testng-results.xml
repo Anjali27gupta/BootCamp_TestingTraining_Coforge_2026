@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-09T11:07:41 IST" name="Default suite" finished-at="2026-02-09T11:08:05 IST" duration-ms="24126">
+    <groups>
+    </groups>
+    <test started-at="2026-02-09T11:07:41 IST" name="Default test" finished-at="2026-02-09T11:08:05 IST" duration-ms="24126">
+      <class name="com.wait.demo.ExplicitDemoTest">
+        <test-method signature="DemoImpicit()[pri:0, instance:com.wait.demo.ExplicitDemoTest@3f23a3a0]" started-at="2026-02-09T11:07:41 IST" name="DemoImpicit" finished-at="2026-02-09T11:08:05 IST" duration-ms="23984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoImpicit -->
+      </class> <!-- com.wait.demo.ExplicitDemoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

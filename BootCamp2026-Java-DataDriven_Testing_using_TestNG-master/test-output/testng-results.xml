@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-05T22:57:56 IST" name="Default suite" finished-at="2026-02-05T22:58:50 IST" duration-ms="54149">
+    <groups>
+    </groups>
+    <test started-at="2026-02-05T22:57:56 IST" name="Default test" finished-at="2026-02-05T22:58:50 IST" duration-ms="54149">
+      <class name="com.coforge.dataprovider.TestNGDataProviderSwagLabs">
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.coforge.dataprovider.TestNGDataProviderSwagLabs@45752059]" started-at="2026-02-05T22:57:56 IST" name="loginTest" data-provider="SwagLabsData" finished-at="2026-02-05T22:58:13 IST" duration-ms="17318" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.coforge.dataprovider.TestNGDataProviderSwagLabs@45752059]" started-at="2026-02-05T22:58:13 IST" name="loginTest" data-provider="SwagLabsData" finished-at="2026-02-05T22:58:33 IST" duration-ms="19483" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[problem_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.coforge.dataprovider.TestNGDataProviderSwagLabs@45752059]" started-at="2026-02-05T22:58:33 IST" name="loginTest" data-provider="SwagLabsData" finished-at="2026-02-05T22:58:50 IST" duration-ms="17276" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[visual_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.coforge.dataprovider.TestNGDataProviderSwagLabs -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

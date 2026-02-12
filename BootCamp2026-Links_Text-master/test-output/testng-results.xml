@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-05T01:23:03 IST" name="Default suite" finished-at="2026-02-05T01:23:35 IST" duration-ms="31384">
+    <groups>
+    </groups>
+    <test started-at="2026-02-05T01:23:03 IST" name="Default test" finished-at="2026-02-05T01:23:35 IST" duration-ms="31384">
+      <class name="findElementByLinks.PartialLinkTextDemo">
+        <test-method is-config="true" signature="setup()[pri:0, instance:findElementByLinks.PartialLinkTextDemo@62ddbd7e]" started-at="2026-02-05T01:23:03 IST" name="setup" finished-at="2026-02-05T01:23:06 IST" duration-ms="2483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="linkTest()[pri:0, instance:findElementByLinks.PartialLinkTextDemo@62ddbd7e]" started-at="2026-02-05T01:23:06 IST" name="linkTest" finished-at="2026-02-05T01:23:35 IST" duration-ms="28525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linkTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:findElementByLinks.PartialLinkTextDemo@62ddbd7e]" started-at="2026-02-05T01:23:35 IST" name="teardown" finished-at="2026-02-05T01:23:35 IST" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- findElementByLinks.PartialLinkTextDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
